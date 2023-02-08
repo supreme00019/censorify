@@ -1,0 +1,11 @@
+{
+    "author": "Saurabh Desai",
+    "name": "Censorify",
+    "version" : "0.0.1",
+    "description":"Censors words out of text",
+    "main" : "censortext",
+    "dependencies": {},
+    "engines" :{
+        "node" : "*"
+    }
+}
